@@ -103,7 +103,7 @@ const styles = StyleSheet.create({
     container: {
         flex: 1,
         padding: 20,
-        backgroundColor: '#4B0082', // Fondo morado oscuro
+        backgroundColor: '#4B0082',
     },
     card: {
         padding: 20,
@@ -118,18 +118,18 @@ const styles = StyleSheet.create({
     },
     text: {
         fontSize: 18,
-        color: '#E6E6FA', // Lavanda
+        color: '#E6E6FA', 
         fontWeight: 'bold',
     },
     center: {
         flex: 1,
         justifyContent: 'center',
         alignItems: 'center',
-        backgroundColor: '#6a0dad', // Morado vibrante
+        backgroundColor: '#6a0dad',
     },
     errorText: {
         fontSize: 18,
-        color: '#FFB6C1', // Rosa claro
+        color: '#FFB6C1',
         fontWeight: 'bold',
     },
 });
